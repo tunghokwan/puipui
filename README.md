@@ -9,7 +9,7 @@ This make puipui move with feature of:
 - remote control
 - sound effect
 - type-c charging
-- fantilation
+- ventilation
 
 
 
