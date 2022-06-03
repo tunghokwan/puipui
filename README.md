@@ -22,5 +22,6 @@ Electronics
 <img src= "https://user-images.githubusercontent.com/52559856/171427486-fc9e67fa-5fc0-409f-bf47-d67d53d3cbe0.png" alt="drawing" width="400"/>
 
 
-## referance:
-1.six bar walking mechnaism: https://github.com/kenaycock/Six-Bar-Walking-Mechanism
+## reference:
+1.six bar walking mechnaism: https://github.com/kenaycock/Six-Bar-Walking-Mechanism  
+2.Bicycleg: https://www.youtube.com/watch?v=d3ukbYC9dZ4&ab_channel=IMMalaga
